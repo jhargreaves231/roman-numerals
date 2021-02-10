@@ -1,7 +1,7 @@
 // Business logic:
 
 
-function convert(variables) {
+/*function convert(variables) {
 
   const newArray = [];
 
@@ -56,9 +56,9 @@ $(document).ready(function(){
      return newArray;
     });
 
-    const numberConvert = convert(array);
-
     console.log(newArray);
+
+    //const numberConvert = convert(array);
   });
 });    
 
